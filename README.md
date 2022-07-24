@@ -32,6 +32,9 @@ Desktop design
 
 ### Links
 
+- Solution URL: [NFT preview card component solution](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-gMb7CNgcKI)
+- Live Site URL: [GitHub Pages](https://jimaloko.github.io/NFT-preview-card-component/)
+
 ## My process
 
 ### Built with
